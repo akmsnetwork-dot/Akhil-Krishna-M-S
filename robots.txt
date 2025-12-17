@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://akhilkrishnams.in/sitemap.xml
+Sitemap: https://akhilkrishnams.live/sitemap.xml
+
